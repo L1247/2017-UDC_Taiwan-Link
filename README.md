@@ -27,6 +27,6 @@
 
 * [UGUI 深度優化提升手遊效能 By 阿祥的開發日常](https://hackmd.io/s/S1z1ByaGb)
 
-* [2017 Unity 開發者大會 會後筆記 by 阿愷](https://k79k06k02k.gitbooks.io/2017-unity-developers-conference/content/)
+* [2017 Unity 開發者大會 會後筆記 by 阿愷 ARKAI Studio](http://k79k06k02k.com/blog/1137/unity/2017-unity-%E9%96%8B%E7%99%BC%E8%80%85%E5%A4%A7%E6%9C%83-%E6%9C%83%E5%BE%8C%E7%AD%86%E8%A8%98)
 
 * [Unity 開發者大會筆記 2017 by 思元的開發筆記](http://dev.twsiyuan.com/2017/06/unity-developers-conference.html)
